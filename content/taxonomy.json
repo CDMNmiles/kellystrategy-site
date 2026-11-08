@@ -1,0 +1,120 @@
+{
+  "schema_version": 1,
+  "categories": [
+    {"id": "baccarat", "label": "百家樂", "path": "/baccarat/", "aliases": ["百家乐"]},
+    {"id": "slots", "label": "老虎機", "path": "/slots/", "aliases": ["老虎机"]},
+    {"id": "investigations", "label": "賭場追查", "path": "/investigations/", "aliases": ["赌场追查", "博彩风险周报"]},
+    {"id": "commentary", "label": "博彩雜談", "path": "/commentary/", "aliases": ["博彩杂谈"]}
+  ],
+  "sections": [
+  {
+    "id": "baccarat-observations",
+    "category": "baccarat",
+    "slug": "observations",
+    "label": "觀點與觀察",
+    "status": "candidate"
+  },
+  {
+    "id": "baccarat-courses",
+    "category": "baccarat",
+    "slug": "courses",
+    "label": "課程系列",
+    "status": "candidate"
+  },
+  {
+    "id": "baccarat-on-location",
+    "category": "baccarat",
+    "slug": "on-location",
+    "label": "賭場現場",
+    "status": "candidate"
+  },
+  {
+    "id": "baccarat-risks-and-anomalies",
+    "category": "baccarat",
+    "slug": "risks-and-anomalies",
+    "label": "風險與異常",
+    "status": "candidate"
+  },
+  {
+    "id": "slots-observations",
+    "category": "slots",
+    "slug": "observations",
+    "label": "觀點與觀察",
+    "status": "candidate"
+  },
+  {
+    "id": "slots-courses",
+    "category": "slots",
+    "slug": "courses",
+    "label": "課程系列",
+    "status": "candidate"
+  },
+  {
+    "id": "slots-on-location",
+    "category": "slots",
+    "slug": "on-location",
+    "label": "現場實錄",
+    "status": "candidate"
+  },
+  {
+    "id": "slots-mechanisms-and-risks",
+    "category": "slots",
+    "slug": "mechanisms-and-risks",
+    "label": "機制與風險",
+    "status": "candidate"
+  },
+  {
+    "id": "investigations-casino-events",
+    "category": "investigations",
+    "slug": "casino-events",
+    "label": "全球賭場事件",
+    "status": "candidate"
+  },
+  {
+    "id": "investigations-platforms-and-regulation",
+    "category": "investigations",
+    "slug": "platforms-and-regulation",
+    "label": "平台與監管",
+    "status": "candidate"
+  },
+  {
+    "id": "investigations-player-stories",
+    "category": "investigations",
+    "slug": "player-stories",
+    "label": "玩家遭遇",
+    "status": "candidate"
+  },
+  {
+    "id": "investigations-follow-ups",
+    "category": "investigations",
+    "slug": "follow-ups",
+    "label": "事件後續",
+    "status": "candidate"
+  },
+  {
+    "id": "commentary-sports-betting",
+    "category": "commentary",
+    "slug": "sports-betting",
+    "label": "體育博彩",
+    "status": "candidate"
+  },
+  {
+    "id": "commentary-other-topics",
+    "category": "commentary",
+    "slug": "other-topics",
+    "label": "其他博彩觀點",
+    "status": "candidate"
+  },
+  {
+    "id": "commentary-life-and-reflections",
+    "category": "commentary",
+    "slug": "life-and-reflections",
+    "label": "玩家人生與思考",
+    "status": "candidate"
+  }
+],
+  "utility_entries": [
+    {"id": "courses", "label": "課程中心", "path": "/courses/"},
+    {"id": "baccarat-tools", "label": "百家樂工具", "path": "/tools/", "related_category": "baccarat"}
+  ]
+}
