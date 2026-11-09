@@ -155,3 +155,43 @@
 .bc-theme-rail .bc-topic-desc{font-size:12px;line-height:1.55;min-height:38px}
 @media(max-width:1100px){.bc-theme-rail>.bc-topic-card{flex-basis:calc((100% - 48px)/3)}}
 @media(max-width:600px){.bc-theme-rail>.bc-topic-card{flex-basis:calc((100% - 14px)/2)}.bc-theme-rail .bc-topic-title{font-size:14px;margin-top:7px}.bc-theme-rail .bc-topic-desc{font-size:11px;min-height:34px}}
+
+/* YouTube-aligned hierarchy: one homepage shelf per channel series, playlist cards inside. */
+.bc-playlist-intro{margin:46px 0 10px;padding-bottom:16px;border-bottom:1px solid var(--line,#d5d1c8)}
+.bc-playlist-intro h2{margin:0;font-size:24px;letter-spacing:-.025em}
+.bc-playlist-intro p{margin:7px 0 0;color:#716f68;font-size:14px;line-height:1.7}
+.bc-playlist-shelf{padding:24px 0 29px;border-bottom:1px solid #c9c5bb;scroll-margin-top:22px}
+.bc-playlist-shelf .bc-shelf-head{display:flex;justify-content:space-between;align-items:flex-end;gap:22px;margin-bottom:15px}
+.bc-playlist-shelf .bc-shelf-copy{max-width:780px}
+.bc-playlist-shelf .bc-kicker{margin-bottom:5px;color:#77736a;font-size:10px;font-weight:800;letter-spacing:.11em}
+.bc-playlist-shelf .bc-shelf-head h2{margin:0;font-size:23px;line-height:1.3;letter-spacing:-.02em}
+.bc-playlist-shelf .bc-more{flex:none;color:#315947;font-size:13px;font-weight:800;text-decoration:none;white-space:nowrap}
+.bc-playlist-rail{display:grid;grid-auto-flow:column;grid-auto-columns:calc((100% - 64px)/5);gap:16px;overflow-x:auto;overscroll-behavior-inline:contain;scroll-snap-type:x mandatory;scrollbar-width:thin;padding:1px 1px 10px}
+.bc-playlist-card{min-width:0;display:flex;flex-direction:column;align-items:flex-start;gap:7px;color:inherit;text-decoration:none;scroll-snap-align:start}
+.bc-playlist-cover{position:relative;display:block;width:100%;aspect-ratio:16/9;overflow:hidden;background:#262522;border-radius:5px;box-shadow:0 0 0 1px #0001}
+.bc-playlist-cover img{width:100%;height:100%;object-fit:cover;transition:transform .2s ease}
+.bc-playlist-card:hover .bc-playlist-cover img{transform:scale(1.035)}
+.bc-playlist-stack{position:absolute;right:0;bottom:0;display:grid;place-items:center;width:42px;height:31px;background:#111d;color:#fff;font-size:15px}
+.bc-playlist-cover i{position:absolute;left:7px;top:7px;padding:4px 7px;background:#171714e8;color:#fff;font-size:10px;font-style:normal;font-weight:800}
+.bc-playlist-card>strong{display:-webkit-box;min-height:46px;overflow:hidden;-webkit-box-orient:vertical;-webkit-line-clamp:2;font-size:14px;line-height:1.55;font-weight:750}
+.bc-playlist-card>small{color:#77746d;font-size:11px;line-height:1.4}
+.bc-playlist-card:hover>strong{color:#315947}
+.bc-directory-header{display:flex;justify-content:space-between;align-items:flex-end;gap:24px;padding:24px 0 23px;border-bottom:1px solid #c9c5bb}
+.bc-directory-header h1{margin:5px 0 8px;font-size:clamp(30px,4vw,46px);line-height:1.15}
+.bc-directory-header p{margin:0;color:#716f68;line-height:1.7}
+.bc-back{flex:none;color:#315947;font-weight:800;text-decoration:none}
+.bc-playlist-directory{display:grid;grid-template-columns:repeat(5,minmax(0,1fr));gap:30px 18px;padding:28px 0}
+.bc-playlist-directory .bc-playlist-card>strong{font-size:15px}
+.bc-embed-layout{display:grid;grid-template-columns:minmax(260px,40%) 1fr;gap:28px;align-items:center;padding:28px 0}
+.bc-embed-cover{aspect-ratio:16/9;background:#252321;overflow:hidden;border-radius:6px}
+.bc-embed-cover img{width:100%;height:100%;object-fit:cover}
+.bc-embed-info h2{margin:0 0 8px;font-size:22px}
+.bc-embed-info p,.bc-source-note{color:#716f68;line-height:1.7;font-size:13px}
+.bc-embed-player{width:min(100%,960px);margin:0 auto;aspect-ratio:16/9;background:#111}
+.bc-embed-player iframe{display:block;width:100%;height:100%;border:0}
+.bc-source-note{max-width:960px;margin:14px auto 35px;font-size:12px}
+.bc-count-confirmed{padding:10px 13px;background:#eeece5;border-left:3px solid #315947;font-size:13px;font-weight:700}
+.bc-snapshot-note{color:#77746d;font-size:11px}
+@media(max-width:1100px){.bc-playlist-rail{grid-auto-columns:calc((100% - 48px)/4)}.bc-playlist-directory{grid-template-columns:repeat(4,minmax(0,1fr))}}
+@media(max-width:850px){.bc-playlist-rail{grid-auto-columns:calc((100% - 32px)/3)}.bc-playlist-directory{grid-template-columns:repeat(3,minmax(0,1fr))}}
+@media(max-width:600px){.bc-playlist-intro{margin-top:30px}.bc-playlist-intro h2{font-size:20px}.bc-playlist-intro p{font-size:12px}.bc-playlist-shelf{padding:20px 0 23px}.bc-playlist-shelf .bc-shelf-head h2{font-size:19px}.bc-playlist-shelf .bc-kicker{font-size:9px}.bc-playlist-rail{grid-auto-columns:calc((100% - 12px)/1.55);gap:12px}.bc-playlist-card>strong{font-size:13px;min-height:40px}.bc-playlist-card>small{font-size:10px}.bc-directory-header{align-items:flex-start;flex-direction:column;gap:14px}.bc-directory-header h1{font-size:30px}.bc-playlist-directory{grid-template-columns:repeat(2,minmax(0,1fr));gap:23px 12px;padding:22px 0}.bc-playlist-directory .bc-playlist-card>strong{font-size:13px}.bc-embed-layout{grid-template-columns:1fr;gap:17px;padding:20px 0}.bc-embed-info h2{font-size:19px}.bc-embed-info p{font-size:12px}.bc-snapshot-note{font-size:10px}}

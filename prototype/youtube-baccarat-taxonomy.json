@@ -1,0 +1,82 @@
+{
+  "source": {
+    "channel": "凯利策略 Spot the Risks",
+    "url": "https://www.youtube.com/@SpotRisks",
+    "captured_at": "2026-11-09",
+    "basis": "当前公开频道首页栏目、播放列表标题与播放列表页面；不是完整视频清单。播放列表会持续变化。"
+  },
+  "featured": {
+    "title": "热门排行榜（TOP 20）",
+    "playlist_id": "PL5qui1KyyHtrNF_9VL47IT0JZRpObh5Cv",
+    "description": "从频道高播放量视频中挑选百家乐代表作，并搭配近期重点内容。",
+    "videos": [
+      {"id":"dHCYV8WIIJQ","title":"赌场百家乐心得：资深玩家的实战经验与凯利策略｜2025年最新Baccarat指南","views":"11万","source":"频道首页 TOP 20，约数"},
+      {"id":"f3_dyrOewKI","title":"百家樂「程序牌」：我們可能從一開始就搞錯了","views":"2,122","source":"本地频道资料快照；需后续与实时页核对"}
+    ]
+  },
+  "shelves": [
+    {
+      "id":"baccarat-breakdown",
+      "title":"百家樂拆解｜概率、誤區與實戰",
+      "source_url":"https://www.youtube.com/@SpotRisks",
+      "playlists":[
+        {"title":"🕵️‍♂️🗃️【百家乐新知】误区与陷阱揭秘 | Baccarat Insights: Myths & Traps Exposed","id":"PL5qui1KyyHtoFw6AifgTSrWdBW7ZYxWrh","cover_video":"dHCYV8WIIJQ"},
+        {"title":"百家乐概率、误判与风险边界","id":"PLP-mrTVJda4M","cover_video":"dHCYV8WIIJQ","kind":"course"},
+        {"title":"🔍🤖【百家乐数据洞察】深度分析与解读 ｜ Baccarat Data Analysis & Insights","id":"PL5qui1KyyHtoVLx4yZ4qhXuc8qEEH1Tzy","cover_video":"m2RC6C-A1Gk"},
+        {"title":"🎯🧭【玩家必看】实战价值百家乐策略观点 | [Must-Watch for Players] High-Value Baccarat Strategy Insights","id":"PL5qui1KyyHtqEQzOuG3s_zPkXhP8djBYp","cover_video":"kzmQecpSVqo"},
+        {"title":"【百家乐实战 量化风控】高阶百家乐玩家必备","id":"PL5qui1KyyHtqgs7skQ-YFzQG7-KL5OqTQ","cover_video":"kzmQecpSVqo"},
+        {"title":"🤜🤛【百家乐团队】案例解析与策略方案 ｜ Baccarat Team Victory Case Studies & Strategies","id":"PL5qui1KyyHtrGCtOfzzTjp2hPm___n7hk","cover_video":"4xGaEaGi6sA"}
+      ]
+    },
+    {
+      "id":"casino-blackbox",
+      "title":"賭場黑盒子｜事件追蹤與作弊識別",
+      "playlists":[
+        {"title":"赌场百家樂Baccarat黑盒子：全球华人玩家的赌场警醒录","id":"PL5qui1KyyHtqrtwnQS5mKrhZVwWIGKKHv","cover_video":"f3_dyrOewKI","count_note":"本地旧资料记录47支，待刷新"},
+        {"title":"黑盒子事件追踪｜报警 牌靴与监管","id":"PLZbcXEKG4Nwc","cover_video":"0XnhTZAx-1Y","verified_count":26,"count_note":"2026-11-09 页面显示26个视频"},
+        {"title":"【赌场作弊识别】","id":"PL5qui1KyyHtqt-qHQctROAH9D502lPSF2","cover_video":"0XnhTZAx-1Y"}
+      ]
+    },
+    {
+      "id":"casino-field-people",
+      "title":"現場與人物｜賭場見聞與環球賭遊",
+      "playlists":[
+        {"title":"👓🎙️【赌场见闻录】真人采访、实地观察 & 深度讲解 | EN","id":"PL5qui1KyyHto4A40J-12Mb8i8tA-Swm9b","cover_video":"b8pPYgOzlTI"},
+        {"title":"赌场现场亲历｜澳门 新加坡与美国","id":"PLARvA1pDpcSs","cover_video":"b8pPYgOzlTI","count_note":"本地旧资料记录18支，待刷新"},
+        {"title":"🌐🎲【环球赌游趣事】 | Global Casino Adventures","id":"PL5qui1KyyHtqR3n7xzI_RbKhdEWufLEeB","cover_video":"b8pPYgOzlTI"},
+        {"title":"🗺️【拉斯维加斯全景揭秘】｜Las Vegas Uncovered: The Casino Capital","id":"PL5qui1KyyHtpKJqxWwH2SQtpY0otXJYAO","cover_video":"b8pPYgOzlTI"}
+      ]
+    },
+    {
+      "id":"gambling-life-cost",
+      "title":"以賭為生的代價｜故事與生存底線",
+      "playlists":[
+        {"title":"赌桌之后的人生｜玩家故事与家庭代价","id":"PLakR5dCHrono","cover_video":"3rpkltoSqF8"},
+        {"title":"聪明的赌徒 | 最笨的赌徒输光钱，普通赌徒输光赢，聪明的赌徒赢未来！","id":"PL5qui1KyyHtrN5-g2aqpmVLY6PQ1qifz_","cover_video":"3rpkltoSqF8"},
+        {"title":"🚫【戒赌日鉴】深度剖析与案例揭秘 ｜ Gambling Detox Revealed: In-Depth Analysis & Case Studies","id":"PL5qui1KyyHtpA01gxHS22vmPJJedXT38u","cover_video":"3rpkltoSqF8"},
+        {"title":"🥷🧗赌途冒险：失败教训 | Gambling Ventures: Lessons from Losses","id":"PL5qui1KyyHtod4Fm0cP5o-YW2S9Kcm36a","cover_video":"MJNzSPod9KE"},
+        {"title":"追损、上头与离场训练","id":"PLGFiP-5OvN1Y","cover_video":"MJNzSPod9KE"}
+      ]
+    },
+    {
+      "id":"kelly-case-files",
+      "title":"💣【凱利拍案】揭秘赌场黑幕 ｜ Kelly Uncovers Casino Secrets",
+      "standalone_playlist":true,
+      "playlists":[
+        {"title":"💣【凱利拍案】揭秘赌场黑幕 ｜ Kelly Uncovers Casino Secrets","id":"PL5qui1KyyHtqT0yF01fQ2Tey_vrpGSn2T","cover_video":"TJ_hVw0X3i4"}
+      ]
+    },
+    {
+      "id":"member-courses",
+      "title":"會員與課程專享",
+      "playlists":[
+        {"title":"✨【会员】专享新视频","id":"PL5qui1KyyHtoX9GVLJCw7MqfuWWXGgOJz","cover_video":"f3_dyrOewKI","members_only":true},
+        {"title":"✨【会员】百家乐健身房 | 新加坡实体赌场牌靴训练","id":"PL5qui1KyyHtrV8ZmnSXQGbTd2nOoCx5q3","cover_video":"QwtwZ_OxUGc","members_only":true},
+        {"title":"✨【会员】百家乐健身房 | 拉斯维加斯实体赌场牌靴训练","id":"PL5qui1KyyHtoyEgXcchixv2Vz6TfpdBu1","cover_video":"QwtwZ_OxUGc","members_only":true},
+        {"title":"✨【会员】专享程序/陷阱牌路演示","id":"PL5qui1KyyHtp5J6RHtzJHQD9P6xQDwjaJ","cover_video":"QwtwZ_OxUGc","members_only":true},
+        {"title":"✨【会员】《百家乐·行动篇》系列","id":"PL5qui1KyyHtqspqiY67nMR5erU4Qisa7N","cover_video":"QwtwZ_OxUGc","members_only":true},
+        {"title":"✨【会员】《百家乐破解之道》系列","id":"PL5qui1KyyHtqFaeb8JEs7bs2WkYsadEuC","cover_video":"QwtwZ_OxUGc","members_only":true}
+      ]
+    }
+  ]
+}
