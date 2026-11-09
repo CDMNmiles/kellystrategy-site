@@ -109,6 +109,7 @@
 .bc-topic-note{margin:15px 0 0;color:#77746b;font-size:11px;line-height:1.6}
 .bc-directory{scroll-margin-top:28px}
 .bc-directory-controls{border-top:1px solid #d4d0c6}
+.bc-topic-browser+.bc-directory .bc-directory-controls{border-top:0}
 .bc-directory-count{font-weight:700}
 @media(max-width:900px){.bc-topic-grid{grid-template-columns:repeat(3,minmax(0,1fr));gap:18px}.bc-topic-title{font-size:15px}}
 @media(max-width:600px){.bc-topic-browser{margin:21px 0 27px;padding:20px 0 22px}.bc-topic-heading{align-items:flex-start;gap:10px}.bc-topic-heading h2{font-size:21px}.bc-topic-heading p{font-size:12px}.bc-topic-all{font-size:12px;padding-top:4px}.bc-topic-grid{grid-template-columns:repeat(2,minmax(0,1fr));gap:18px 12px}.bc-topic-title{margin-top:8px;font-size:14px;line-height:1.4}.bc-topic-desc{font-size:11px;line-height:1.5}.bc-topic-note{font-size:10px}.bc-directory{scroll-margin-top:16px}}
