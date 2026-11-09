@@ -29,6 +29,22 @@
 
 ## 目前狀態
 
-2026年11月8日（美國洛杉磯時間）：確定沿用此倉庫，完成專案說明初始化。網站程式、技術選型、部署與正式網址尚未建立。
+2026年11月8日（美國洛杉磯時間）：沿用此倉庫，已加入開發前規格、分類設定與核心資料檢查器。網站頁面、資料匯入、部署與正式網址尚未建立。`content/catalog.json`目前為空，沒有以示例冒充全量內容。
+
+## 開發文件入口
+
+- [PRD與驗收需求](docs/product/prd-v1.md)
+- [資訊架構與路由](docs/product/information-architecture.md)
+- [設計任務書](docs/design/design-brief.md)
+- [資料模型與公開欄位](docs/engineering/data-model.md)
+- [技術方向](docs/engineering/technical-direction.md)
+- [資料整理與維護流程](docs/operations/content-workflow.md)
+- [開發任務與依賴](docs/operations/development-backlog.md)
+
+## 資料契約檢查
+
+僅檢查開發結構：`python3 scripts/validate_content.py --structure-only`。
+
+檢查公開內容目錄：`python3 scripts/validate_content.py`。空目錄回報`INCOMPLETE`並返回退出碼2；不能視為內容已齊或網站可發布。檢查器不會讀取私人Drive、驗證事實或測試軟體運行。
 
 僅將可公開的程式與內容存入本倉庫；私人資料、未公開課程原件及憑證不屬於公開網站內容。
