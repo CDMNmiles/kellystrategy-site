@@ -148,3 +148,10 @@
 @media(max-width:1100px){.bc-course-rail>.bc-course-teaser{flex-basis:calc((100% - 72px)/4)}}
 @media(max-width:850px){.bc-course-rail>.bc-course-teaser{flex-basis:calc((100% - 48px)/3)}}
 @media(max-width:600px){.bc-course-rail>.bc-course-teaser{flex-basis:calc((100% - 14px)/2);gap:6px}.bc-course-teaser>strong{font-size:14px}.bc-course-teaser>small{font-size:11px}.bc-course-row .bc-shelf-head h2{font-size:22px}}
+
+/* Non-course series use the same two-step browse pattern: theme cards, then that theme's videos. */
+.bc-theme-rail>.bc-topic-card{flex:0 0 calc((100% - 72px)/4);scroll-snap-align:start}
+.bc-theme-rail .bc-topic-title{font-size:16px;line-height:1.45;margin-top:9px}
+.bc-theme-rail .bc-topic-desc{font-size:12px;line-height:1.55;min-height:38px}
+@media(max-width:1100px){.bc-theme-rail>.bc-topic-card{flex-basis:calc((100% - 48px)/3)}}
+@media(max-width:600px){.bc-theme-rail>.bc-topic-card{flex-basis:calc((100% - 14px)/2)}.bc-theme-rail .bc-topic-title{font-size:14px;margin-top:7px}.bc-theme-rail .bc-topic-desc{font-size:11px;min-height:34px}}
