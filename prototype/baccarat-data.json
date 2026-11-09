@@ -14,7 +14,9 @@
           "view_text": "2122",
           "duration": "26:49",
           "members_only": false,
-          "thumbnail": "https://i.ytimg.com/vi/f3_dyrOewKI/hqdefault.jpg"
+          "thumbnail": "https://i.ytimg.com/vi/f3_dyrOewKI/hqdefault.jpg",
+          "published_label": "4 天前",
+          "published_age_days": 4
         },
         {
           "id": "TJ_hVw0X3i4",
@@ -22,7 +24,9 @@
           "view_text": "1.8萬",
           "duration": "22:31",
           "members_only": false,
-          "thumbnail": "https://i.ytimg.com/vi/TJ_hVw0X3i4/hqdefault.jpg"
+          "thumbnail": "https://i.ytimg.com/vi/TJ_hVw0X3i4/hqdefault.jpg",
+          "published_label": "2 週前",
+          "published_age_days": 14
         },
         {
           "id": "dm9ffnsHqj8",
@@ -30,7 +34,9 @@
           "view_text": "1萬",
           "duration": "1:27",
           "members_only": false,
-          "thumbnail": "https://i.ytimg.com/vi/dm9ffnsHqj8/hqdefault.jpg"
+          "thumbnail": "https://i.ytimg.com/vi/dm9ffnsHqj8/hqdefault.jpg",
+          "published_label": "2 週前",
+          "published_age_days": 14
         },
         {
           "id": "EHytw2jPqZU",
@@ -38,7 +44,9 @@
           "view_text": "2409",
           "duration": "18:11",
           "members_only": false,
-          "thumbnail": "https://i.ytimg.com/vi/EHytw2jPqZU/hqdefault.jpg"
+          "thumbnail": "https://i.ytimg.com/vi/EHytw2jPqZU/hqdefault.jpg",
+          "published_label": "3 週前",
+          "published_age_days": 21
         },
         {
           "id": "VuhE0Icwups",
@@ -46,7 +54,9 @@
           "view_text": "1985",
           "duration": "17:26",
           "members_only": false,
-          "thumbnail": "https://i.ytimg.com/vi/VuhE0Icwups/hqdefault.jpg"
+          "thumbnail": "https://i.ytimg.com/vi/VuhE0Icwups/hqdefault.jpg",
+          "published_label": "4 週前",
+          "published_age_days": 28
         },
         {
           "id": "QwtwZ_OxUGc",
@@ -54,7 +64,9 @@
           "view_text": null,
           "duration": "20:42",
           "members_only": true,
-          "thumbnail": "https://i.ytimg.com/vi/QwtwZ_OxUGc/hqdefault.jpg"
+          "thumbnail": "https://i.ytimg.com/vi/QwtwZ_OxUGc/hqdefault.jpg",
+          "published_label": "3 個月前",
+          "published_age_days": 90
         },
         {
           "id": "r9t1YrYTjYk",
@@ -62,7 +74,9 @@
           "view_text": "3415",
           "duration": "17:05",
           "members_only": false,
-          "thumbnail": "https://i.ytimg.com/vi/r9t1YrYTjYk/hqdefault.jpg"
+          "thumbnail": "https://i.ytimg.com/vi/r9t1YrYTjYk/hqdefault.jpg",
+          "published_label": "4 週前",
+          "published_age_days": 28
         },
         {
           "id": "XpWOwBcOey0",
@@ -70,7 +84,9 @@
           "view_text": "2440",
           "duration": "21:16",
           "members_only": false,
-          "thumbnail": "https://i.ytimg.com/vi/XpWOwBcOey0/hqdefault.jpg"
+          "thumbnail": "https://i.ytimg.com/vi/XpWOwBcOey0/hqdefault.jpg",
+          "published_label": "1 個月前",
+          "published_age_days": 30
         },
         {
           "id": "1NplPk1iexg",
@@ -78,7 +94,9 @@
           "view_text": null,
           "duration": "19:57",
           "members_only": true,
-          "thumbnail": "https://i.ytimg.com/vi/1NplPk1iexg/hqdefault.jpg"
+          "thumbnail": "https://i.ytimg.com/vi/1NplPk1iexg/hqdefault.jpg",
+          "published_label": "1 個月前",
+          "published_age_days": 30
         },
         {
           "id": "u8UzbxBrIyI",
@@ -86,7 +104,9 @@
           "view_text": null,
           "duration": "15:06",
           "members_only": true,
-          "thumbnail": "https://i.ytimg.com/vi/u8UzbxBrIyI/hqdefault.jpg"
+          "thumbnail": "https://i.ytimg.com/vi/u8UzbxBrIyI/hqdefault.jpg",
+          "published_label": "3 個月前",
+          "published_age_days": 90
         },
         {
           "id": "CCBVkCdqVQQ",
@@ -94,7 +114,9 @@
           "view_text": null,
           "duration": "8:49",
           "members_only": true,
-          "thumbnail": "https://i.ytimg.com/vi/CCBVkCdqVQQ/hqdefault.jpg"
+          "thumbnail": "https://i.ytimg.com/vi/CCBVkCdqVQQ/hqdefault.jpg",
+          "published_label": "5 個月前",
+          "published_age_days": 150
         },
         {
           "id": "8CbdnkIKF0w",
@@ -102,7 +124,9 @@
           "view_text": null,
           "duration": "12:10",
           "members_only": true,
-          "thumbnail": "https://i.ytimg.com/vi/8CbdnkIKF0w/hqdefault.jpg"
+          "thumbnail": "https://i.ytimg.com/vi/8CbdnkIKF0w/hqdefault.jpg",
+          "published_label": "5 個月前",
+          "published_age_days": 150
         },
         {
           "id": "gsbO3we91So",
@@ -110,7 +134,9 @@
           "view_text": null,
           "duration": "12:53",
           "members_only": true,
-          "thumbnail": "https://i.ytimg.com/vi/gsbO3we91So/hqdefault.jpg"
+          "thumbnail": "https://i.ytimg.com/vi/gsbO3we91So/hqdefault.jpg",
+          "published_label": "5 個月前",
+          "published_age_days": 150
         },
         {
           "id": "ZZMRhHQY0C4",
@@ -118,7 +144,9 @@
           "view_text": "4967",
           "duration": "34:01",
           "members_only": false,
-          "thumbnail": "https://i.ytimg.com/vi/ZZMRhHQY0C4/hqdefault.jpg"
+          "thumbnail": "https://i.ytimg.com/vi/ZZMRhHQY0C4/hqdefault.jpg",
+          "published_label": "5 個月前",
+          "published_age_days": 150
         },
         {
           "id": "XxkRH_hcoAE",
@@ -126,7 +154,9 @@
           "view_text": "956",
           "duration": "2:26",
           "members_only": false,
-          "thumbnail": "https://i.ytimg.com/vi/XxkRH_hcoAE/hqdefault.jpg"
+          "thumbnail": "https://i.ytimg.com/vi/XxkRH_hcoAE/hqdefault.jpg",
+          "published_label": "5 個月前",
+          "published_age_days": 150
         },
         {
           "id": "YYG0IdNrAN8",
@@ -134,7 +164,9 @@
           "view_text": null,
           "duration": "11:17",
           "members_only": true,
-          "thumbnail": "https://i.ytimg.com/vi/YYG0IdNrAN8/hqdefault.jpg"
+          "thumbnail": "https://i.ytimg.com/vi/YYG0IdNrAN8/hqdefault.jpg",
+          "published_label": "5 個月前",
+          "published_age_days": 150
         },
         {
           "id": "DnL0rz4oxiY",
@@ -142,7 +174,9 @@
           "view_text": "1327",
           "duration": "9:40",
           "members_only": false,
-          "thumbnail": "https://i.ytimg.com/vi/DnL0rz4oxiY/hqdefault.jpg"
+          "thumbnail": "https://i.ytimg.com/vi/DnL0rz4oxiY/hqdefault.jpg",
+          "published_label": "5 個月前",
+          "published_age_days": 150
         },
         {
           "id": "EbI0Vzcsf2g",
@@ -150,7 +184,9 @@
           "view_text": "6.9萬",
           "duration": "0:56",
           "members_only": false,
-          "thumbnail": "https://i.ytimg.com/vi/EbI0Vzcsf2g/hqdefault.jpg"
+          "thumbnail": "https://i.ytimg.com/vi/EbI0Vzcsf2g/hqdefault.jpg",
+          "published_label": "5 個月前",
+          "published_age_days": 150
         },
         {
           "id": "KK8Z6zs1VvI",
@@ -158,7 +194,9 @@
           "view_text": "2萬",
           "duration": "1:49",
           "members_only": false,
-          "thumbnail": "https://i.ytimg.com/vi/KK8Z6zs1VvI/hqdefault.jpg"
+          "thumbnail": "https://i.ytimg.com/vi/KK8Z6zs1VvI/hqdefault.jpg",
+          "published_label": "5 個月前",
+          "published_age_days": 150
         },
         {
           "id": "2LnmLLFffMg",
@@ -166,7 +204,9 @@
           "view_text": "6540",
           "duration": "21:57",
           "members_only": false,
-          "thumbnail": "https://i.ytimg.com/vi/2LnmLLFffMg/hqdefault.jpg"
+          "thumbnail": "https://i.ytimg.com/vi/2LnmLLFffMg/hqdefault.jpg",
+          "published_label": "5 個月前",
+          "published_age_days": 150
         },
         {
           "id": "jM2X2Nu0-SI",
@@ -174,7 +214,9 @@
           "view_text": "6104",
           "duration": "12:54",
           "members_only": false,
-          "thumbnail": "https://i.ytimg.com/vi/jM2X2Nu0-SI/hqdefault.jpg"
+          "thumbnail": "https://i.ytimg.com/vi/jM2X2Nu0-SI/hqdefault.jpg",
+          "published_label": "5 個月前",
+          "published_age_days": 150
         },
         {
           "id": "7NWID9JwqIY",
@@ -182,7 +224,9 @@
           "view_text": "2.2萬",
           "duration": "3:00",
           "members_only": false,
-          "thumbnail": "https://i.ytimg.com/vi/7NWID9JwqIY/hqdefault.jpg"
+          "thumbnail": "https://i.ytimg.com/vi/7NWID9JwqIY/hqdefault.jpg",
+          "published_label": "5 個月前",
+          "published_age_days": 150
         },
         {
           "id": "Ddo5rJM9WBY",
@@ -190,7 +234,9 @@
           "view_text": "5077",
           "duration": "8:51",
           "members_only": false,
-          "thumbnail": "https://i.ytimg.com/vi/Ddo5rJM9WBY/hqdefault.jpg"
+          "thumbnail": "https://i.ytimg.com/vi/Ddo5rJM9WBY/hqdefault.jpg",
+          "published_label": "4 個月前",
+          "published_age_days": 120
         },
         {
           "id": "p7A8jU5K-Lc",
@@ -198,7 +244,9 @@
           "view_text": "1755",
           "duration": "1:03",
           "members_only": false,
-          "thumbnail": "https://i.ytimg.com/vi/p7A8jU5K-Lc/hqdefault.jpg"
+          "thumbnail": "https://i.ytimg.com/vi/p7A8jU5K-Lc/hqdefault.jpg",
+          "published_label": "4 個月前",
+          "published_age_days": 120
         },
         {
           "id": "1tgpllqkC20",
@@ -206,7 +254,9 @@
           "view_text": "3328",
           "duration": "8:33",
           "members_only": false,
-          "thumbnail": "https://i.ytimg.com/vi/1tgpllqkC20/hqdefault.jpg"
+          "thumbnail": "https://i.ytimg.com/vi/1tgpllqkC20/hqdefault.jpg",
+          "published_label": "4 個月前",
+          "published_age_days": 120
         },
         {
           "id": "NQLkMAXopY4",
@@ -214,7 +264,9 @@
           "view_text": "6339",
           "duration": "8:51",
           "members_only": false,
-          "thumbnail": "https://i.ytimg.com/vi/NQLkMAXopY4/hqdefault.jpg"
+          "thumbnail": "https://i.ytimg.com/vi/NQLkMAXopY4/hqdefault.jpg",
+          "published_label": "4 個月前",
+          "published_age_days": 120
         },
         {
           "id": "9pf7sAU9_qw",
@@ -222,7 +274,9 @@
           "view_text": "1716",
           "duration": "5:24",
           "members_only": false,
-          "thumbnail": "https://i.ytimg.com/vi/9pf7sAU9_qw/hqdefault.jpg"
+          "thumbnail": "https://i.ytimg.com/vi/9pf7sAU9_qw/hqdefault.jpg",
+          "published_label": "4 個月前",
+          "published_age_days": 120
         },
         {
           "id": "pByxqFaeCpc",
@@ -230,7 +284,9 @@
           "view_text": "6500",
           "duration": "17:42",
           "members_only": false,
-          "thumbnail": "https://i.ytimg.com/vi/pByxqFaeCpc/hqdefault.jpg"
+          "thumbnail": "https://i.ytimg.com/vi/pByxqFaeCpc/hqdefault.jpg",
+          "published_label": "4 個月前",
+          "published_age_days": 120
         },
         {
           "id": "iMZlW9aGBQk",
@@ -238,7 +294,9 @@
           "view_text": "1.7萬",
           "duration": "4:48",
           "members_only": false,
-          "thumbnail": "https://i.ytimg.com/vi/iMZlW9aGBQk/hqdefault.jpg"
+          "thumbnail": "https://i.ytimg.com/vi/iMZlW9aGBQk/hqdefault.jpg",
+          "published_label": "4 個月前",
+          "published_age_days": 120
         },
         {
           "id": "SXFwl_Jq4Vs",
@@ -246,7 +304,9 @@
           "view_text": "5079",
           "duration": "4:15",
           "members_only": false,
-          "thumbnail": "https://i.ytimg.com/vi/SXFwl_Jq4Vs/hqdefault.jpg"
+          "thumbnail": "https://i.ytimg.com/vi/SXFwl_Jq4Vs/hqdefault.jpg",
+          "published_label": "4 個月前",
+          "published_age_days": 120
         },
         {
           "id": "CSTP9Q1wLjs",
@@ -254,7 +314,9 @@
           "view_text": "6600",
           "duration": "10:43",
           "members_only": false,
-          "thumbnail": "https://i.ytimg.com/vi/CSTP9Q1wLjs/hqdefault.jpg"
+          "thumbnail": "https://i.ytimg.com/vi/CSTP9Q1wLjs/hqdefault.jpg",
+          "published_label": "4 個月前",
+          "published_age_days": 120
         },
         {
           "id": "5lP9TVlVoUw",
@@ -262,7 +324,9 @@
           "view_text": "3355",
           "duration": "9:06",
           "members_only": false,
-          "thumbnail": "https://i.ytimg.com/vi/5lP9TVlVoUw/hqdefault.jpg"
+          "thumbnail": "https://i.ytimg.com/vi/5lP9TVlVoUw/hqdefault.jpg",
+          "published_label": "4 個月前",
+          "published_age_days": 120
         },
         {
           "id": "OAgr0qxUf0w",
@@ -270,7 +334,9 @@
           "view_text": "7112",
           "duration": "10:02",
           "members_only": false,
-          "thumbnail": "https://i.ytimg.com/vi/OAgr0qxUf0w/hqdefault.jpg"
+          "thumbnail": "https://i.ytimg.com/vi/OAgr0qxUf0w/hqdefault.jpg",
+          "published_label": "4 個月前",
+          "published_age_days": 120
         },
         {
           "id": "csx-B-Hu6Vk",
@@ -278,7 +344,9 @@
           "view_text": "4186",
           "duration": "16:51",
           "members_only": false,
-          "thumbnail": "https://i.ytimg.com/vi/csx-B-Hu6Vk/hqdefault.jpg"
+          "thumbnail": "https://i.ytimg.com/vi/csx-B-Hu6Vk/hqdefault.jpg",
+          "published_label": "4 個月前",
+          "published_age_days": 120
         },
         {
           "id": "HKZwzgEdMIc",
@@ -286,7 +354,9 @@
           "view_text": "1.2萬",
           "duration": "20:31",
           "members_only": false,
-          "thumbnail": "https://i.ytimg.com/vi/HKZwzgEdMIc/hqdefault.jpg"
+          "thumbnail": "https://i.ytimg.com/vi/HKZwzgEdMIc/hqdefault.jpg",
+          "published_label": "3 個月前",
+          "published_age_days": 90
         },
         {
           "id": "MD3f8NHrl9g",
@@ -294,7 +364,9 @@
           "view_text": "3622",
           "duration": "20:53",
           "members_only": false,
-          "thumbnail": "https://i.ytimg.com/vi/MD3f8NHrl9g/hqdefault.jpg"
+          "thumbnail": "https://i.ytimg.com/vi/MD3f8NHrl9g/hqdefault.jpg",
+          "published_label": "3 個月前",
+          "published_age_days": 90
         },
         {
           "id": "rSqhReWJq4o",
@@ -302,7 +374,9 @@
           "view_text": "5766",
           "duration": "0:53",
           "members_only": false,
-          "thumbnail": "https://i.ytimg.com/vi/rSqhReWJq4o/hqdefault.jpg"
+          "thumbnail": "https://i.ytimg.com/vi/rSqhReWJq4o/hqdefault.jpg",
+          "published_label": "3 個月前",
+          "published_age_days": 90
         },
         {
           "id": "G7a6FcYdk40",
@@ -310,7 +384,9 @@
           "view_text": "1.1萬",
           "duration": "2:35",
           "members_only": false,
-          "thumbnail": "https://i.ytimg.com/vi/G7a6FcYdk40/hqdefault.jpg"
+          "thumbnail": "https://i.ytimg.com/vi/G7a6FcYdk40/hqdefault.jpg",
+          "published_label": "1 個月前",
+          "published_age_days": 30
         },
         {
           "id": "8USEJTe_9gU",
@@ -318,7 +394,9 @@
           "view_text": "61",
           "duration": "1:49",
           "members_only": false,
-          "thumbnail": "https://i.ytimg.com/vi/8USEJTe_9gU/hqdefault.jpg"
+          "thumbnail": "https://i.ytimg.com/vi/8USEJTe_9gU/hqdefault.jpg",
+          "published_label": "4 週前",
+          "published_age_days": 28
         },
         {
           "id": "N3Tu5CzNAfY",
@@ -326,7 +404,9 @@
           "view_text": "1886",
           "duration": "2:59",
           "members_only": false,
-          "thumbnail": "https://i.ytimg.com/vi/N3Tu5CzNAfY/hqdefault.jpg"
+          "thumbnail": "https://i.ytimg.com/vi/N3Tu5CzNAfY/hqdefault.jpg",
+          "published_label": "4 週前",
+          "published_age_days": 28
         },
         {
           "id": "fLHS6tOck0c",
@@ -334,7 +414,9 @@
           "view_text": "67",
           "duration": "1:00",
           "members_only": false,
-          "thumbnail": "https://i.ytimg.com/vi/fLHS6tOck0c/hqdefault.jpg"
+          "thumbnail": "https://i.ytimg.com/vi/fLHS6tOck0c/hqdefault.jpg",
+          "published_label": "3 個月前",
+          "published_age_days": 90
         },
         {
           "id": "TyDHQVEMMsA",
@@ -342,7 +424,9 @@
           "view_text": "64",
           "duration": "1:51",
           "members_only": false,
-          "thumbnail": "https://i.ytimg.com/vi/TyDHQVEMMsA/hqdefault.jpg"
+          "thumbnail": "https://i.ytimg.com/vi/TyDHQVEMMsA/hqdefault.jpg",
+          "published_label": "3 個月前",
+          "published_age_days": 90
         },
         {
           "id": "henVStU0qg4",
@@ -350,7 +434,9 @@
           "view_text": "76",
           "duration": "0:50",
           "members_only": false,
-          "thumbnail": "https://i.ytimg.com/vi/henVStU0qg4/hqdefault.jpg"
+          "thumbnail": "https://i.ytimg.com/vi/henVStU0qg4/hqdefault.jpg",
+          "published_label": "3 個月前",
+          "published_age_days": 90
         },
         {
           "id": "J9RME-1dYmw",
@@ -358,7 +444,9 @@
           "view_text": "2448",
           "duration": "0:48",
           "members_only": false,
-          "thumbnail": "https://i.ytimg.com/vi/J9RME-1dYmw/hqdefault.jpg"
+          "thumbnail": "https://i.ytimg.com/vi/J9RME-1dYmw/hqdefault.jpg",
+          "published_label": "3 個月前",
+          "published_age_days": 90
         },
         {
           "id": "WvI6u_RMT0U",
@@ -366,7 +454,9 @@
           "view_text": "1557",
           "duration": "1:08",
           "members_only": false,
-          "thumbnail": "https://i.ytimg.com/vi/WvI6u_RMT0U/hqdefault.jpg"
+          "thumbnail": "https://i.ytimg.com/vi/WvI6u_RMT0U/hqdefault.jpg",
+          "published_label": "3 個月前",
+          "published_age_days": 90
         },
         {
           "id": "MJNzSPod9KE",
@@ -374,7 +464,9 @@
           "view_text": "987",
           "duration": "15:00",
           "members_only": false,
-          "thumbnail": "https://i.ytimg.com/vi/MJNzSPod9KE/hqdefault.jpg"
+          "thumbnail": "https://i.ytimg.com/vi/MJNzSPod9KE/hqdefault.jpg",
+          "published_label": "3 個月前",
+          "published_age_days": 90
         },
         {
           "id": "qSCtMN1URQM",
@@ -382,7 +474,9 @@
           "view_text": "9818",
           "duration": "2:36",
           "members_only": false,
-          "thumbnail": "https://i.ytimg.com/vi/qSCtMN1URQM/hqdefault.jpg"
+          "thumbnail": "https://i.ytimg.com/vi/qSCtMN1URQM/hqdefault.jpg",
+          "published_label": "3 個月前",
+          "published_age_days": 90
         }
       ]
     },
@@ -398,7 +492,9 @@
           "view_text": "4252",
           "duration": "12:58",
           "members_only": false,
-          "thumbnail": "https://i.ytimg.com/vi/b8pPYgOzlTI/hqdefault.jpg"
+          "thumbnail": "https://i.ytimg.com/vi/b8pPYgOzlTI/hqdefault.jpg",
+          "published_label": "6 年前",
+          "published_age_days": 2190
         },
         {
           "id": "b5yutd9Q8lE",
@@ -406,7 +502,9 @@
           "view_text": "2439",
           "duration": "35:10",
           "members_only": false,
-          "thumbnail": "https://i.ytimg.com/vi/b5yutd9Q8lE/hqdefault.jpg"
+          "thumbnail": "https://i.ytimg.com/vi/b5yutd9Q8lE/hqdefault.jpg",
+          "published_label": "直播時間：6 年前",
+          "published_age_days": 2190
         },
         {
           "id": "7o2vSf0I_wo",
@@ -414,7 +512,9 @@
           "view_text": "2771",
           "duration": "17:43",
           "members_only": false,
-          "thumbnail": "https://i.ytimg.com/vi/7o2vSf0I_wo/hqdefault.jpg"
+          "thumbnail": "https://i.ytimg.com/vi/7o2vSf0I_wo/hqdefault.jpg",
+          "published_label": "6 年前",
+          "published_age_days": 2190
         },
         {
           "id": "TVBOfTXZjro",
@@ -422,7 +522,9 @@
           "view_text": "3737",
           "duration": "20:33",
           "members_only": false,
-          "thumbnail": "https://i.ytimg.com/vi/TVBOfTXZjro/hqdefault.jpg"
+          "thumbnail": "https://i.ytimg.com/vi/TVBOfTXZjro/hqdefault.jpg",
+          "published_label": "6 年前",
+          "published_age_days": 2190
         },
         {
           "id": "DElu8dzXRag",
@@ -430,7 +532,9 @@
           "view_text": "2652",
           "duration": "30:10",
           "members_only": false,
-          "thumbnail": "https://i.ytimg.com/vi/DElu8dzXRag/hqdefault.jpg"
+          "thumbnail": "https://i.ytimg.com/vi/DElu8dzXRag/hqdefault.jpg",
+          "published_label": "6 年前",
+          "published_age_days": 2190
         },
         {
           "id": "5CqGFsnSF7I",
@@ -438,7 +542,9 @@
           "view_text": "3502",
           "duration": "10:08",
           "members_only": false,
-          "thumbnail": "https://i.ytimg.com/vi/5CqGFsnSF7I/hqdefault.jpg"
+          "thumbnail": "https://i.ytimg.com/vi/5CqGFsnSF7I/hqdefault.jpg",
+          "published_label": "6 年前",
+          "published_age_days": 2190
         },
         {
           "id": "d4EUGFoi_gk",
@@ -446,7 +552,9 @@
           "view_text": "3004",
           "duration": "13:50",
           "members_only": false,
-          "thumbnail": "https://i.ytimg.com/vi/d4EUGFoi_gk/hqdefault.jpg"
+          "thumbnail": "https://i.ytimg.com/vi/d4EUGFoi_gk/hqdefault.jpg",
+          "published_label": "6 年前",
+          "published_age_days": 2190
         },
         {
           "id": "GjC7IdVkEbg",
@@ -454,7 +562,9 @@
           "view_text": "3377",
           "duration": "14:52",
           "members_only": false,
-          "thumbnail": "https://i.ytimg.com/vi/GjC7IdVkEbg/hqdefault.jpg"
+          "thumbnail": "https://i.ytimg.com/vi/GjC7IdVkEbg/hqdefault.jpg",
+          "published_label": "6 年前",
+          "published_age_days": 2190
         },
         {
           "id": "k9vRxgpruiU",
@@ -462,7 +572,9 @@
           "view_text": "2萬",
           "duration": "10:15",
           "members_only": false,
-          "thumbnail": "https://i.ytimg.com/vi/k9vRxgpruiU/hqdefault.jpg"
+          "thumbnail": "https://i.ytimg.com/vi/k9vRxgpruiU/hqdefault.jpg",
+          "published_label": "6 年前",
+          "published_age_days": 2190
         },
         {
           "id": "C7-3_baDWDo",
@@ -470,7 +582,9 @@
           "view_text": "3978",
           "duration": "24:38",
           "members_only": false,
-          "thumbnail": "https://i.ytimg.com/vi/C7-3_baDWDo/hqdefault.jpg"
+          "thumbnail": "https://i.ytimg.com/vi/C7-3_baDWDo/hqdefault.jpg",
+          "published_label": "6 年前",
+          "published_age_days": 2190
         },
         {
           "id": "wleJLYjCRXA",
@@ -478,7 +592,9 @@
           "view_text": "1.1萬",
           "duration": "8:10",
           "members_only": false,
-          "thumbnail": "https://i.ytimg.com/vi/wleJLYjCRXA/hqdefault.jpg"
+          "thumbnail": "https://i.ytimg.com/vi/wleJLYjCRXA/hqdefault.jpg",
+          "published_label": "5 年前",
+          "published_age_days": 1825
         },
         {
           "id": "iU9LRqu1DS8",
@@ -486,7 +602,9 @@
           "view_text": null,
           "duration": "5:03",
           "members_only": true,
-          "thumbnail": "https://i.ytimg.com/vi/iU9LRqu1DS8/hqdefault.jpg"
+          "thumbnail": "https://i.ytimg.com/vi/iU9LRqu1DS8/hqdefault.jpg",
+          "published_label": "3 年前",
+          "published_age_days": 1095
         },
         {
           "id": "jFLsojlfNfE",
@@ -494,7 +612,9 @@
           "view_text": null,
           "duration": "12:09",
           "members_only": true,
-          "thumbnail": "https://i.ytimg.com/vi/jFLsojlfNfE/hqdefault.jpg"
+          "thumbnail": "https://i.ytimg.com/vi/jFLsojlfNfE/hqdefault.jpg",
+          "published_label": "1 年前",
+          "published_age_days": 365
         },
         {
           "id": "gsbO3we91So",
@@ -502,7 +622,9 @@
           "view_text": null,
           "duration": "12:53",
           "members_only": true,
-          "thumbnail": "https://i.ytimg.com/vi/gsbO3we91So/hqdefault.jpg"
+          "thumbnail": "https://i.ytimg.com/vi/gsbO3we91So/hqdefault.jpg",
+          "published_label": "5 個月前",
+          "published_age_days": 150
         },
         {
           "id": "OlLzTHQh6EM",
@@ -510,7 +632,9 @@
           "view_text": "3752",
           "duration": "22:48",
           "members_only": false,
-          "thumbnail": "https://i.ytimg.com/vi/OlLzTHQh6EM/hqdefault.jpg"
+          "thumbnail": "https://i.ytimg.com/vi/OlLzTHQh6EM/hqdefault.jpg",
+          "published_label": "6 年前",
+          "published_age_days": 2190
         },
         {
           "id": "hZTEWWteP7Y",
@@ -518,7 +642,9 @@
           "view_text": "1978",
           "duration": "41:28",
           "members_only": false,
-          "thumbnail": "https://i.ytimg.com/vi/hZTEWWteP7Y/hqdefault.jpg"
+          "thumbnail": "https://i.ytimg.com/vi/hZTEWWteP7Y/hqdefault.jpg",
+          "published_label": "直播時間：6 年前",
+          "published_age_days": 2190
         },
         {
           "id": "dswo0o5hfOU",
@@ -526,7 +652,9 @@
           "view_text": "6715",
           "duration": "17:19",
           "members_only": false,
-          "thumbnail": "https://i.ytimg.com/vi/dswo0o5hfOU/hqdefault.jpg"
+          "thumbnail": "https://i.ytimg.com/vi/dswo0o5hfOU/hqdefault.jpg",
+          "published_label": "6 年前",
+          "published_age_days": 2190
         },
         {
           "id": "NiLT0My9jsI",
@@ -534,7 +662,9 @@
           "view_text": "589",
           "duration": "11:29",
           "members_only": false,
-          "thumbnail": "https://i.ytimg.com/vi/NiLT0My9jsI/hqdefault.jpg"
+          "thumbnail": "https://i.ytimg.com/vi/NiLT0My9jsI/hqdefault.jpg",
+          "published_label": "4 年前",
+          "published_age_days": 1460
         }
       ]
     },
@@ -550,7 +680,9 @@
           "view_text": "3.7萬",
           "duration": "25:48",
           "members_only": false,
-          "thumbnail": "https://i.ytimg.com/vi/kzmQecpSVqo/hqdefault.jpg"
+          "thumbnail": "https://i.ytimg.com/vi/kzmQecpSVqo/hqdefault.jpg",
+          "published_label": "2 年前",
+          "published_age_days": 730
         },
         {
           "id": "2NvBmVhVNH8",
@@ -558,7 +690,9 @@
           "view_text": "5384",
           "duration": "10:27",
           "members_only": false,
-          "thumbnail": "https://i.ytimg.com/vi/2NvBmVhVNH8/hqdefault.jpg"
+          "thumbnail": "https://i.ytimg.com/vi/2NvBmVhVNH8/hqdefault.jpg",
+          "published_label": "6 年前",
+          "published_age_days": 2190
         },
         {
           "id": "4xGaEaGi6sA",
@@ -566,7 +700,9 @@
           "view_text": "3648",
           "duration": "25:01",
           "members_only": false,
-          "thumbnail": "https://i.ytimg.com/vi/4xGaEaGi6sA/hqdefault.jpg"
+          "thumbnail": "https://i.ytimg.com/vi/4xGaEaGi6sA/hqdefault.jpg",
+          "published_label": "6 年前",
+          "published_age_days": 2190
         },
         {
           "id": "m2RC6C-A1Gk",
@@ -574,7 +710,9 @@
           "view_text": "2361",
           "duration": "0:53",
           "members_only": false,
-          "thumbnail": "https://i.ytimg.com/vi/m2RC6C-A1Gk/hqdefault.jpg"
+          "thumbnail": "https://i.ytimg.com/vi/m2RC6C-A1Gk/hqdefault.jpg",
+          "published_label": "2 年前",
+          "published_age_days": 730
         },
         {
           "id": "Jci-xgA7aOw",
@@ -582,7 +720,9 @@
           "view_text": "1584",
           "duration": "0:51",
           "members_only": false,
-          "thumbnail": "https://i.ytimg.com/vi/Jci-xgA7aOw/hqdefault.jpg"
+          "thumbnail": "https://i.ytimg.com/vi/Jci-xgA7aOw/hqdefault.jpg",
+          "published_label": "1 年前",
+          "published_age_days": 365
         },
         {
           "id": "MN-4pfbrKOA",
@@ -590,7 +730,9 @@
           "view_text": "1068",
           "duration": "4:43",
           "members_only": false,
-          "thumbnail": "https://i.ytimg.com/vi/MN-4pfbrKOA/hqdefault.jpg"
+          "thumbnail": "https://i.ytimg.com/vi/MN-4pfbrKOA/hqdefault.jpg",
+          "published_label": "3 年前",
+          "published_age_days": 1095
         },
         {
           "id": "RVfV7pVH43Y",
@@ -598,7 +740,9 @@
           "view_text": "807",
           "duration": "8:13",
           "members_only": false,
-          "thumbnail": "https://i.ytimg.com/vi/RVfV7pVH43Y/hqdefault.jpg"
+          "thumbnail": "https://i.ytimg.com/vi/RVfV7pVH43Y/hqdefault.jpg",
+          "published_label": "3 年前",
+          "published_age_days": 1095
         },
         {
           "id": "nkR2uEuZQdU",
@@ -606,7 +750,9 @@
           "view_text": "748",
           "duration": "8:45",
           "members_only": false,
-          "thumbnail": "https://i.ytimg.com/vi/nkR2uEuZQdU/hqdefault.jpg"
+          "thumbnail": "https://i.ytimg.com/vi/nkR2uEuZQdU/hqdefault.jpg",
+          "published_label": "2 年前",
+          "published_age_days": 730
         },
         {
           "id": "Jj0Zi3Y9IwM",
@@ -614,7 +760,9 @@
           "view_text": "551",
           "duration": "6:27",
           "members_only": false,
-          "thumbnail": "https://i.ytimg.com/vi/Jj0Zi3Y9IwM/hqdefault.jpg"
+          "thumbnail": "https://i.ytimg.com/vi/Jj0Zi3Y9IwM/hqdefault.jpg",
+          "published_label": "3 年前",
+          "published_age_days": 1095
         },
         {
           "id": "CWC6oKNsrVE",
@@ -622,7 +770,9 @@
           "view_text": "442",
           "duration": "2:32",
           "members_only": false,
-          "thumbnail": "https://i.ytimg.com/vi/CWC6oKNsrVE/hqdefault.jpg"
+          "thumbnail": "https://i.ytimg.com/vi/CWC6oKNsrVE/hqdefault.jpg",
+          "published_label": "3 年前",
+          "published_age_days": 1095
         },
         {
           "id": "SfM_QWKdpK8",
@@ -630,7 +780,9 @@
           "view_text": "392",
           "duration": "4:05",
           "members_only": false,
-          "thumbnail": "https://i.ytimg.com/vi/SfM_QWKdpK8/hqdefault.jpg"
+          "thumbnail": "https://i.ytimg.com/vi/SfM_QWKdpK8/hqdefault.jpg",
+          "published_label": "2 年前",
+          "published_age_days": 730
         },
         {
           "id": "IyqCQl-Gg7k",
@@ -638,7 +790,9 @@
           "view_text": "145",
           "duration": "8:31",
           "members_only": false,
-          "thumbnail": "https://i.ytimg.com/vi/IyqCQl-Gg7k/hqdefault.jpg"
+          "thumbnail": "https://i.ytimg.com/vi/IyqCQl-Gg7k/hqdefault.jpg",
+          "published_label": "2 年前",
+          "published_age_days": 730
         },
         {
           "id": "Qz3k5wRwghQ",
@@ -646,7 +800,9 @@
           "view_text": null,
           "duration": "21:27",
           "members_only": true,
-          "thumbnail": "https://i.ytimg.com/vi/Qz3k5wRwghQ/hqdefault.jpg"
+          "thumbnail": "https://i.ytimg.com/vi/Qz3k5wRwghQ/hqdefault.jpg",
+          "published_label": "2 年前",
+          "published_age_days": 730
         },
         {
           "id": "rmFBOjZywnc",
@@ -654,7 +810,9 @@
           "view_text": null,
           "duration": "19:03",
           "members_only": true,
-          "thumbnail": "https://i.ytimg.com/vi/rmFBOjZywnc/hqdefault.jpg"
+          "thumbnail": "https://i.ytimg.com/vi/rmFBOjZywnc/hqdefault.jpg",
+          "published_label": "2 年前",
+          "published_age_days": 730
         },
         {
           "id": "F4nC_aWpDQ4",
@@ -662,7 +820,9 @@
           "view_text": null,
           "duration": "8:07",
           "members_only": true,
-          "thumbnail": "https://i.ytimg.com/vi/F4nC_aWpDQ4/hqdefault.jpg"
+          "thumbnail": "https://i.ytimg.com/vi/F4nC_aWpDQ4/hqdefault.jpg",
+          "published_label": "3 年前",
+          "published_age_days": 1095
         },
         {
           "id": "yU8qSNgikCg",
@@ -670,7 +830,9 @@
           "view_text": null,
           "duration": "25:35",
           "members_only": true,
-          "thumbnail": "https://i.ytimg.com/vi/yU8qSNgikCg/hqdefault.jpg"
+          "thumbnail": "https://i.ytimg.com/vi/yU8qSNgikCg/hqdefault.jpg",
+          "published_label": "3 年前",
+          "published_age_days": 1095
         },
         {
           "id": "PB_cpY94vb0",
@@ -678,7 +840,9 @@
           "view_text": null,
           "duration": "8:26",
           "members_only": true,
-          "thumbnail": "https://i.ytimg.com/vi/PB_cpY94vb0/hqdefault.jpg"
+          "thumbnail": "https://i.ytimg.com/vi/PB_cpY94vb0/hqdefault.jpg",
+          "published_label": "1 年前",
+          "published_age_days": 365
         },
         {
           "id": "WcqrYb9EJaI",
@@ -686,7 +850,9 @@
           "view_text": null,
           "duration": "22:04",
           "members_only": true,
-          "thumbnail": "https://i.ytimg.com/vi/WcqrYb9EJaI/hqdefault.jpg"
+          "thumbnail": "https://i.ytimg.com/vi/WcqrYb9EJaI/hqdefault.jpg",
+          "published_label": "3 年前",
+          "published_age_days": 1095
         }
       ]
     },
@@ -702,7 +868,9 @@
           "view_text": null,
           "duration": "34:10",
           "members_only": true,
-          "thumbnail": "https://i.ytimg.com/vi/D72yh5Uw8Yw/hqdefault.jpg"
+          "thumbnail": "https://i.ytimg.com/vi/D72yh5Uw8Yw/hqdefault.jpg",
+          "published_label": "3 年前",
+          "published_age_days": 1095
         },
         {
           "id": "sJWTZuU0EJQ",
@@ -710,7 +878,9 @@
           "view_text": null,
           "duration": "25:16",
           "members_only": true,
-          "thumbnail": "https://i.ytimg.com/vi/sJWTZuU0EJQ/hqdefault.jpg"
+          "thumbnail": "https://i.ytimg.com/vi/sJWTZuU0EJQ/hqdefault.jpg",
+          "published_label": "5 年前",
+          "published_age_days": 1825
         },
         {
           "id": "vTI1_L-Xh1Q",
@@ -718,7 +888,9 @@
           "view_text": "1.7萬",
           "duration": "27:23",
           "members_only": false,
-          "thumbnail": "https://i.ytimg.com/vi/vTI1_L-Xh1Q/hqdefault.jpg"
+          "thumbnail": "https://i.ytimg.com/vi/vTI1_L-Xh1Q/hqdefault.jpg",
+          "published_label": "6 年前",
+          "published_age_days": 2190
         },
         {
           "id": "jZNXFx6K5ds",
@@ -726,7 +898,9 @@
           "view_text": null,
           "duration": "15:12",
           "members_only": true,
-          "thumbnail": "https://i.ytimg.com/vi/jZNXFx6K5ds/hqdefault.jpg"
+          "thumbnail": "https://i.ytimg.com/vi/jZNXFx6K5ds/hqdefault.jpg",
+          "published_label": "6 年前",
+          "published_age_days": 2190
         }
       ]
     },
@@ -742,7 +916,9 @@
           "view_text": "926",
           "duration": "7:58",
           "members_only": false,
-          "thumbnail": "https://i.ytimg.com/vi/0O7Gog1wz6s/hqdefault.jpg"
+          "thumbnail": "https://i.ytimg.com/vi/0O7Gog1wz6s/hqdefault.jpg",
+          "published_label": "5 年前",
+          "published_age_days": 1825
         }
       ]
     },
@@ -758,7 +934,9 @@
           "view_text": "202",
           "duration": "0:50",
           "members_only": false,
-          "thumbnail": "https://i.ytimg.com/vi/cdv0R9EcGqY/hqdefault.jpg"
+          "thumbnail": "https://i.ytimg.com/vi/cdv0R9EcGqY/hqdefault.jpg",
+          "published_label": "1 年前",
+          "published_age_days": 365
         },
         {
           "id": "EBUTchkpfsA",
@@ -766,7 +944,9 @@
           "view_text": null,
           "duration": "15:54",
           "members_only": true,
-          "thumbnail": "https://i.ytimg.com/vi/EBUTchkpfsA/hqdefault.jpg"
+          "thumbnail": "https://i.ytimg.com/vi/EBUTchkpfsA/hqdefault.jpg",
+          "published_label": "2 年前",
+          "published_age_days": 730
         },
         {
           "id": "HwuRZAjuccs",
@@ -774,7 +954,9 @@
           "view_text": "459",
           "duration": "18:35",
           "members_only": false,
-          "thumbnail": "https://i.ytimg.com/vi/HwuRZAjuccs/hqdefault.jpg"
+          "thumbnail": "https://i.ytimg.com/vi/HwuRZAjuccs/hqdefault.jpg",
+          "published_label": "3 年前",
+          "published_age_days": 1095
         },
         {
           "id": "Pg6ShKmf8fI",
@@ -782,7 +964,9 @@
           "view_text": "4107",
           "duration": "10:22",
           "members_only": false,
-          "thumbnail": "https://i.ytimg.com/vi/Pg6ShKmf8fI/hqdefault.jpg"
+          "thumbnail": "https://i.ytimg.com/vi/Pg6ShKmf8fI/hqdefault.jpg",
+          "published_label": "6 年前",
+          "published_age_days": 2190
         },
         {
           "id": "RmykaG_gK_8",
@@ -790,7 +974,9 @@
           "view_text": "3084",
           "duration": "14:40",
           "members_only": false,
-          "thumbnail": "https://i.ytimg.com/vi/RmykaG_gK_8/hqdefault.jpg"
+          "thumbnail": "https://i.ytimg.com/vi/RmykaG_gK_8/hqdefault.jpg",
+          "published_label": "6 年前",
+          "published_age_days": 2190
         }
       ]
     },
@@ -806,7 +992,9 @@
           "view_text": "862",
           "duration": "9:42",
           "members_only": false,
-          "thumbnail": "https://i.ytimg.com/vi/krBY64SfmG8/hqdefault.jpg"
+          "thumbnail": "https://i.ytimg.com/vi/krBY64SfmG8/hqdefault.jpg",
+          "published_label": "5 年前",
+          "published_age_days": 1825
         },
         {
           "id": "WzdS__onAlw",
@@ -814,7 +1002,9 @@
           "view_text": "1541",
           "duration": "4:15",
           "members_only": false,
-          "thumbnail": "https://i.ytimg.com/vi/WzdS__onAlw/hqdefault.jpg"
+          "thumbnail": "https://i.ytimg.com/vi/WzdS__onAlw/hqdefault.jpg",
+          "published_label": "5 年前",
+          "published_age_days": 1825
         },
         {
           "id": "46JLsV6RMcI",
@@ -822,7 +1012,9 @@
           "view_text": "2271",
           "duration": "29:34",
           "members_only": false,
-          "thumbnail": "https://i.ytimg.com/vi/46JLsV6RMcI/hqdefault.jpg"
+          "thumbnail": "https://i.ytimg.com/vi/46JLsV6RMcI/hqdefault.jpg",
+          "published_label": "直播時間：6 年前",
+          "published_age_days": 2190
         }
       ]
     },
@@ -838,7 +1030,9 @@
           "view_text": null,
           "duration": "25:35",
           "members_only": true,
-          "thumbnail": "https://i.ytimg.com/vi/yU8qSNgikCg/hqdefault.jpg"
+          "thumbnail": "https://i.ytimg.com/vi/yU8qSNgikCg/hqdefault.jpg",
+          "published_label": "3 年前",
+          "published_age_days": 1095
         },
         {
           "id": "F4nC_aWpDQ4",
@@ -846,7 +1040,9 @@
           "view_text": null,
           "duration": "8:07",
           "members_only": true,
-          "thumbnail": "https://i.ytimg.com/vi/F4nC_aWpDQ4/hqdefault.jpg"
+          "thumbnail": "https://i.ytimg.com/vi/F4nC_aWpDQ4/hqdefault.jpg",
+          "published_label": "3 年前",
+          "published_age_days": 1095
         },
         {
           "id": "ktmG4AgCc-E",
@@ -854,7 +1050,9 @@
           "view_text": "688",
           "duration": "2:51",
           "members_only": false,
-          "thumbnail": "https://i.ytimg.com/vi/ktmG4AgCc-E/hqdefault.jpg"
+          "thumbnail": "https://i.ytimg.com/vi/ktmG4AgCc-E/hqdefault.jpg",
+          "published_label": "3 年前",
+          "published_age_days": 1095
         }
       ]
     }
