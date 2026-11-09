@@ -1,5 +1,6 @@
 import fs from 'node:fs';
 import { buildModulePages } from './modules.mjs';
+import { buildBaccaratPrototype } from './baccarat.mjs';
 import path from 'node:path';
 import { fileURLToPath } from 'node:url';
 
@@ -87,6 +88,7 @@ const pages = new Map([['/', homepage()], ...cats.map(c => [`/${c.id}/`, categor
 for (const [route, html] of buildModulePages({shell,videos,courses,tools,esc,url,card,thumb,meta,button,breadcrumb,courseCard,contact,roadGraphic,modulesText,date})) pages.set(route,html);
 pages.set('/articles/', shell('文章與專題', breadcrumb([['文章與專題']])+title('讓一個問題，完整地展開。','凱利策略的文字內容，與影片彼此補充。按自己的速度閱讀事件背景與觀察。','READ / 文章與專題')+`<article class="module-reading"><div class="eyebrow">博彩風險週報 #003 · 公開文字版</div><h2><a href="/articles/casino-weekly-003/">${articleTitle}</a></h2><p>事件背景、資料時點與凱利的觀察。</p>${button('/articles/casino-weekly-003/','閱讀全文 →',true)}</article><section>${heading('影片與文字，一起看','/investigations/','進入賭場追查 →')}<div class="video-grid">${videos.filter(v=>v.category==='investigations').map(card).join('')}</div></section>`));
 pages.set('/explore/', shell('內容探索與我的清單',breadcrumb([['內容探索']])+title('你的問題，自己的路徑。','自由組合主題與內容形式。把影片、文章、課程和工具放在一起找，再收進自己的閱讀清單。','EXPLORE / 內容探索')+`<div class="explore-controls"><label>我關心的主題<select id="explore-topic"><option value="">全部主題</option>${cats.map(c=>`<option value="${c.id}">${c.label}</option>`).join('')}</select></label><label>我想怎樣了解<select id="explore-type"><option value="">全部形式</option>${['影片','文章','課程','工具'].map(t=>`<option>${t}</option>`).join('')}</select></label><label class="explore-check"><input type="checkbox" id="explore-saved">只看我的清單</label><button class="save-content" id="explore-reset">重設條件</button></div><p class="source-note">閱讀清單只保存在目前瀏覽器，不用登入。不同裝置不會同步，清除瀏覽器資料也會移除清單。</p><p id="explore-count" class="explore-count" role="status" aria-live="polite"></p><div id="explore-results" class="explore-results"></div><noscript><p>互動探索需要啟用 JavaScript。你仍可使用下列靜態目錄閱讀所有已接入內容。</p></noscript><details class="explore-static"><summary>查看全部內容的文字目錄</summary><ul>${searchItems.map(i=>`<li><a href="${i.href}">${esc(i.type)}｜${esc(i.title)}</a></li>`).join('')}</ul></details><script type="application/json" id="explore-index">${json(searchItems)}</script>`));
+for (const [route, html] of buildBaccaratPrototype({shell,breadcrumb,esc,button},JSON.parse(fs.readFileSync(path.join(root, "prototype/baccarat-data.json"), "utf8")),videos)) pages.set(route,html);
 for (const [route, html] of pages) { const dest = path.join(out, route, 'index.html'); fs.mkdirSync(path.dirname(dest), { recursive: true }); fs.writeFileSync(dest, html); }
 fs.writeFileSync(path.join(out, '404.html'), shell('找不到這個頁面', title('這個頁面暫時找不到。', '可以從主題目錄繼續找，或試試站內搜尋。') + `<div class="button-row">${button('/', '回到首頁')}${button('/search/', '搜尋內容', true)}</div>`));
 fs.mkdirSync(path.join(out, 'mobile-preview'), { recursive: true });
@@ -94,6 +96,7 @@ fs.writeFileSync(path.join(out, 'mobile-preview/index.html'), '<!doctype html><h
 for (const id of ['baccarat','slots','investigations','commentary','courses','tools','about']) {
  const dest=path.join(out,'mobile-preview',id,'index.html');fs.mkdirSync(path.dirname(dest),{recursive:true});fs.writeFileSync(dest,`<!doctype html><html lang="zh-Hant"><meta charset="utf-8"><meta name="robots" content="noindex,nofollow"><title>手機版檢查</title><body style="margin:0;background:#ddd"><iframe title="390像素手機版" src="/${id}/" style="display:block;width:390px;height:844px;border:0;margin:20px auto;background:white"></iframe></body></html>`);
 }
+for (const file of ['baccarat.css','baccarat.js']) fs.copyFileSync(path.join(root,'prototype',file),path.join(out,file));
 fs.copyFileSync(path.join(root, 'prototype/modules.css'), path.join(out, 'modules.css'));
 fs.copyFileSync(path.join(root, 'prototype/style.css'), path.join(out, 'style.css'));
 fs.copyFileSync(path.join(root, 'prototype/explore.js'), path.join(out, 'explore.js'));
