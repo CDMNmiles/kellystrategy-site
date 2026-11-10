@@ -1,0 +1,19 @@
+# Dependencies and build output
+node_modules/
+dist/
+.next/
+.vinext/
+__pycache__/
+*.pyc
+
+# Runtime credentials and local editing state
+.env
+.env.*
+!.env.example
+.openai/local/
+
+# Private source material must remain outside the public repository
+private/
+internal/
+raw-sources/
+drive-snapshots/

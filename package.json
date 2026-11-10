@@ -1,0 +1,12 @@
+{
+  "name": "kellystrategy-site",
+  "private": true,
+  "version": "0.1.0",
+  "type": "module",
+  "scripts": {
+    "build": "node scripts/build_public_directory.mjs",
+    "check": "npm run harness",
+    "harness": "node scripts/run_goal_harness.mjs",
+    "audit:public": "python3 scripts/audit_public_release.py"
+  }
+}
